@@ -13,4 +13,5 @@ fs.readFile("Async.txt", "utf-8", (err, resp) => {
   console.log(resp);
   console.log("READING DONE");
 });
+
 // console.log(file);
